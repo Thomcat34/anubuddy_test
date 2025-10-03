@@ -1,6 +1,6 @@
 # anybuddy_test
 
-A new Flutter project.
+Test technique anubuddy
 
 ## Getting Started
 
