@@ -1,0 +1,15 @@
+{
+    "id": "tour_2026",
+    "name": "Padel Royale 2026",
+    "dateStart": "2026-02-26",
+    "dateEnd": "2026-05-25",
+    "cities": [
+      { "city": "Paris", "levelText": "Niveau 4/5", "badge": "P25", "slotsLeft": 24, "recommended": true, "levelGap": false, "price": 40 },
+      { "city": "Paris", "levelText": "Niveau 5", "badge": "P100", "slotsLeft": 32, "recommended": false, "levelGap": false, "price": 40 },
+      { "city": "Paris", "levelText": "Niveau 2", "badge": "P250", "slotsLeft": 45, "recommended": false, "levelGap": true, "price": 40 },
+      { "city": "Lille", "levelText": "Niveau 4/5", "badge": "P25", "slotsLeft": 24, "recommended": true, "levelGap": false, "price": 40 }
+    ],
+    "teamsCount": 240,
+    "teamsCap": 10000,
+    "cityFilters": ["Tous","Paris","Lille","Bordeaux","Lyon","Marseille"]
+  }
